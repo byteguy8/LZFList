@@ -1,0 +1,4 @@
+*
+!.gitignore
+!lzflist.h
+!lzflist.c
